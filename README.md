@@ -69,11 +69,12 @@ RTL realization
 ![Screenshot 2024-01-02 034337](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/2d10afb9-ba4b-4be7-a3ea-5f04aba0ebd6)
 
 
-##Truthtable:
-Halfadder:
+## Truthtable:
+## Halfadder:
 
 ![Screenshot 2024-01-02 034238](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/4ce910d7-27b9-48f3-b028-bd65f03c1ddb)
-Fulladder:
+
+## Fulladder:
 
 ![Screenshot 2024-01-02 034251](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/0a51e04f-9563-4588-b473-c59d1d797957)
 
