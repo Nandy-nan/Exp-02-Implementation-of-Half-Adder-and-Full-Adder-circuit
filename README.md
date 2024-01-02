@@ -36,19 +36,48 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+## Half adder:
+![Screenshot 2024-01-02 034221](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/eff59298-9165-40f8-8a86-cfe86c8692de)
+
+## Full adder:
+
+
+![Screenshot 2024-01-02 034229](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/05b0950a-de46-4c0b-9b17-5a64b20bd29c)
+
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: R.Nandhana
+RegisterNumber: 23005507 
 */
 Logic symbol & Truthtable
 RTL realization
+##Halfadder
+
+![Screenshot 2024-01-02 034301](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/8283c695-a8d4-4079-ac5e-9ea0afa905cc)
+
+## Full adder
+
+![Screenshot 2024-01-02 034310](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/a446217c-0ed2-4be4-b6aa-3cc8d268c220)
+
+
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+
+![Screenshot 2024-01-02 034326](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/ddb424d7-905e-466e-af61-4be4b24b85c6)
+
+![Screenshot 2024-01-02 034337](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/2d10afb9-ba4b-4be7-a3ea-5f04aba0ebd6)
 
 
-### TRUTH TABLE 
+##Truthtable:
+
+![Screenshot 2024-01-02 034238](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/4ce910d7-27b9-48f3-b028-bd65f03c1ddb)
+
+![Screenshot 2024-01-02 034251](https://github.com/Nandy-nan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153698914/0a51e04f-9563-4588-b473-c59d1d797957)
+
+
+
+
+
 
 ### Result:
